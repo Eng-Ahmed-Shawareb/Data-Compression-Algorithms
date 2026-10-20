@@ -1,0 +1,13 @@
+CMakeLists.txt
+
+decompression.txt
+
+input.txt
+
+output.txt
+
+main.cpp
+
+cmake-build-debug/
+
+.idea/
